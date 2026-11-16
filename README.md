@@ -4,7 +4,6 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1.4.7-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Apache POI](https://img.shields.io/badge/Apache%20POI-3.17-D22128?logo=apache&logoColor=white)](https://poi.apache.org/)
 [![Maven](https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Applicazione **Java / Spring Boot** sviluppata per automatizzare le attività di **analisi funzionale e data mapping** tra modelli dati complessi (confronto programmatico tra classi **Entities** di persistenza e **Models / DTO** di business).
 
@@ -90,8 +89,3 @@ Analisi-Excel/
    ./mvnw spring-boot:run
    ```
    L'applicativo eseguirà il parsing dei file Excel di input configurati e stamperà su console/file il resoconto completo dei mapping rilevati.
-
----
-
-## 📄 Licenza
-Rilasciato sotto licenza [MIT](LICENSE).
